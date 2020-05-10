@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search User Github</string>
+    <string name="error">Error</string>
+    <string name="message_api_limit">We try our best to serve the data, we will try again after 60 seconds</string>
+</resources>
